@@ -1,10 +1,8 @@
 # Network-Science-Assignment-2
-# Network-Science-Assignment-2
-
 
  <p align="center">
   <a href="https://codesandbox.io">
-    <img src="https://github.com/rahadarmannabid/Network-Science-Assignment-1/blob/main/Screenshot%202023-01-26%20at%202.11.10%20PM.png" height="300px">
+    <img src="https://github.com/rahadarmannabid/Network-Science-Assignment-2/blob/main/largest_connect_component.png" height="300px">
   </a>
 </p>
 
@@ -19,9 +17,7 @@ You can run all the notebook in jupyter notebook. Some code may give error in ma
 
 Download Amazon product dataset from  http://snap.stanford.edu/data/com-Amazon.html, and  
 compute: 
-
 <br> 
-
 a)  the size of the network largest connected component,  
 b)  the number of connected components,  
 c) degree distribution,  
